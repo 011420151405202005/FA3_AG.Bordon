@@ -1,0 +1,39 @@
+body {  
+   
+	background-image: url("Background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+
+}  
+
+h1 {  
+    text-align: center;
+	background-color:#3cb371;
+	font-family: "Times New Roman", Times, serif;
+	border: 2px dotted blue;
+	padding: 10px 15px;
+	width: 250px;
+	margin-bottom: 20px;				 
+}   
+
+p {  
+    text-align: justified;
+	background-color:hsl(147, 50%, 47%);
+	font-style: hsl(300, 76%, 72%);
+	padding: 20px;
+	border: 3px black;
+	border-top-style: dotted;
+	border-bottom-style: dashed;
+	border-right-style:double;
+	border-left-style: solid;
+	width: 500px;			 
+}   
+
+span {  
+    font-weight: bold;
+	font-style: italic;
+	color: blue;
+	margin-left: 2px;
+	margin-right: 5px;
+}  
